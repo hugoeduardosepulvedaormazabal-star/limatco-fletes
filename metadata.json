@@ -1,0 +1,5 @@
+{
+  "name": "Liquidacion de Fletes",
+  "description": "Aplicación avanzada para el cálculo y gestión de pagos de fletes urbanos e interurbanos para Transportes Limatco, basándose en matrices de sectores, pesos y tramos de kilometraje.",
+  "requestFramePermissions": []
+}
